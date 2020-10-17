@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mona:block/test_block"
+    }
+  }
+}

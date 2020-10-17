@@ -1,0 +1,12 @@
+{
+  "vault_door_release": {
+    "category": "block",
+    "subtitle": "mona.subtitle.vault_door_release",
+    "sounds": [ "mona:air_decompress" ]
+  },
+  "vault_door_open": {
+    "category": "block",
+    "subtitle": "mona.subtitle.vault_door_open",
+    "sounds": [ "mona:vault_door_open" ]
+  }
+}

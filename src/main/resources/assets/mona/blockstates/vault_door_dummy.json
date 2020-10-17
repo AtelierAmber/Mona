@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mona:block/empty_block"
+    }
+  }
+}
